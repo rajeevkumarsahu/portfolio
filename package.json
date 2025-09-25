@@ -1,5 +1,6 @@
 {
-  
+  "homepage": "https://USERNAME.github.io/my-react-app",
+
 
   "name": "react-portfolio",
   
@@ -11,6 +12,9 @@
   
 
   "type": "module",
+  "predeploy": "npm run build",
+"deploy": "gh-pages -d build",
+
   
   
 
