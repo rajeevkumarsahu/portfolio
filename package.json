@@ -35,6 +35,8 @@
     
 
   "preview": "vite preview"
+    
+  "homepage": "https://your-username.github.io/my-portfolio"
   
 
   },
@@ -107,3 +109,4 @@
 
   }
 }
+
